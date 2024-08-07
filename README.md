@@ -23,8 +23,8 @@ Download read files and pack them.
 ```bash
  for acc in $(cat accessions.txt)
  do	
-	fasterq-dump -e $SLURM_CPUS_PER_TASK -O data --split-3 --skip-technical --progress $acc
-	pigz ${acc}*.fastq
+  fasterq-dump -e $SLURM_CPUS_PER_TASK -O data --split-3 --skip-technical --progress $acc
+  pigz ${acc}*.fastq
  done
 ```
 
