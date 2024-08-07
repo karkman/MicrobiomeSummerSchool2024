@@ -7,7 +7,7 @@ Assembly exercise workflow for Nordic Summer School on Computational Microbiome 
 Illumina, Nanopore and Pacbio RS II sequencing data from 12 species mock community: 
 [Shotgun metagenome data of a defined mock community using Oxford Nanopore, PacBio and Illumina technologies](https://doi.org/10.1038/s41597-019-0287-z)
 
-__Original data__
+__Sequence data__
 
 | Accession   | Platform | Data in Gb |
 | -------- | ------- | --- 
@@ -95,11 +95,11 @@ spades.py \
 
  ## Download links for the assemblies
 
-Illumina only: https://a3s.fi/antkark-2001183-pub/illumina_only.fasta
-Nanopore only: https://a3s.fi/antkark-2001183-pub/nanopore_only.fasta
-Pacbio only: https://a3s.fi/antkark-2001183-pub/pacbio_only.fasta
-Nanopore hybrid: https://a3s.fi/antkark-2001183-pub/nanopore_hybrid.fasta
-Pacbio hybrid: https://a3s.fi/antkark-2001183-pub/pacbio_hybrid.fasta
+Illumina only: https://a3s.fi/antkark-2001183-pub/illumina_only.fasta  
+Nanopore only: https://a3s.fi/antkark-2001183-pub/nanopore_only.fasta  
+Pacbio only: https://a3s.fi/antkark-2001183-pub/pacbio_only.fasta  
+Nanopore hybrid: https://a3s.fi/antkark-2001183-pub/nanopore_hybrid.fasta  
+Pacbio hybrid: https://a3s.fi/antkark-2001183-pub/pacbio_hybrid.fasta  
 
 ## Assembly stats
  
